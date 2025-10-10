@@ -2,7 +2,7 @@
 ## NAME: DEVADARSHAN A S
 ## REGISTER NUMBER: 212222110007
 ## DEPARTMENT: CSE(IOT)
-## YEAR: III
+## YEAR: IV
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
